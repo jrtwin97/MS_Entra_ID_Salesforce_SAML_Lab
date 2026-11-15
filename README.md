@@ -1,4 +1,4 @@
-# MS_Entra_ID_Salesforce_SAML_Lab
+# MS_Entra_ID_SAML_Salesforce_Lab
 
 
 <p>
